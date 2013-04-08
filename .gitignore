@@ -1,0 +1,10 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# target
+target/
+
+# libs pulled by sbt
+*.jar
