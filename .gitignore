@@ -8,3 +8,6 @@ target/
 
 # libs pulled by sbt
 *.jar
+
+# Vim swp files
+*.swp
