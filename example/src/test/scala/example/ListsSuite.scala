@@ -96,7 +96,6 @@ class BasicSuite extends FunSuite {
 }
 
 
-// @RunWith(classOf[JUnitRunner])
 class ListSumSuite extends FunSuite {
   /**
    * Now we finally write some tests for the list functions that have to be
@@ -154,8 +153,6 @@ class ListSumSuite extends FunSuite {
 
 }
 
-
-@RunWith(classOf[JUnitRunner])
 class ListMaxSuite extends FunSuite {
 
   import Lists._
